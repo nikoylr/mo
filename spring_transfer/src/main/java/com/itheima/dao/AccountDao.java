@@ -8,4 +8,5 @@ public interface AccountDao {
     void edit(Account account) throws SQLException;
 
     Account findByName(String name) throws SQLException;
+	//zhengdm
 }
