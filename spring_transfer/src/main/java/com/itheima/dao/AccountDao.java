@@ -12,5 +12,4 @@ public interface AccountDao {
 	//zhengdm
 
 	//ls 10
-
 }
